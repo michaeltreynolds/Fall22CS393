@@ -1,2 +1,2 @@
 # Fall22CS393
-Repo for fall cs 393
+Repo for Fall CS 393
