@@ -1,0 +1,5 @@
+Given a linked list reverse the order.
+
+Example: 
+Input: B -> C -> D
+Result: D -> C -> B
