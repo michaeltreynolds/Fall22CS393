@@ -1,3 +1,0 @@
-Write a function that given a string will reverse all the letters with in each word. For example "a cat ate my homework" becomes "a tac eta ym krowemoh".
-
-Pick any language!
